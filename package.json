@@ -1,0 +1,23 @@
+{
+  "name": "international-mobile",
+  "version": "1.0.0",
+  "description": "A simple json file of internation mobile code and validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoonYaph/mobile-data.git"
+  },
+  "keywords": [
+    "mobile",
+    "validator"
+  ],
+  "author": "moonyaph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MoonYaph/mobile-data/issues"
+  },
+  "homepage": "https://github.com/MoonYaph/mobile-data#readme"
+}
