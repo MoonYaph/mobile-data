@@ -561,7 +561,7 @@ const mobile = [
     pattern: '^(00){0,1}(41){1}\\d{6,12}$',
     code: '41',
     text: '瑞士',
-    des: 'CN'
+    des: 'CH'
   },
   {
     pattern: '^(00){0,1}(503){1}\\d{6,15}$',

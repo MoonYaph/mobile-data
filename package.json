@@ -1,6 +1,6 @@
 {
   "name": "international-mobile",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple json file of internation mobile code and validator",
   "main": "index.js",
   "scripts": {
